@@ -17,6 +17,8 @@ can be achieved without controlling the way data is distributed between sources 
 in general, without having the responsibility to centrally manage the data sources of the
 federation.
 
+You can find the latest version of Semagrow in this Github repository https://github.com/semagrow/semagrow.
+
 ## Getting Started
 
 ### Building
